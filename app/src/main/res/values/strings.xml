@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">Location Sender</string>
+    <string name="title_activity_main2" translatable="false">Main2Activity</string>
+    <string name="myTestString" translatable="false">MYTESTSTRING</string>
+</resources>
